@@ -1,3 +1,3 @@
 # test2
 
-[abc](../../blob/sample/test)
+[abc](../archive/master.zip)
