@@ -1,3 +1,3 @@
 # test2
 
-[abc](../archive/master.zip)
+[abc](../../archive/master.zip)
