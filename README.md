@@ -1,3 +1,3 @@
 # test2
 
-[abc](../../sample/test)
+[abc](../../blob/sample/test)
