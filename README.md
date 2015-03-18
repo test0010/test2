@@ -1,3 +1,3 @@
 # test2
 
-[abc](test)
+[abc](../../sample/test)
